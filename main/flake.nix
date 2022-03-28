@@ -11,7 +11,6 @@
   inputs.src-nimcrypt-main.ref   = "refs/heads/main";
   inputs.src-nimcrypt-main.owner = "napalu";
   inputs.src-nimcrypt-main.repo  = "nimcrypt";
-  inputs.src-nimcrypt-main.dir   = "";
   inputs.src-nimcrypt-main.type  = "github";
   
   inputs."nimcrypto".owner = "nim-nix-pkgs";
