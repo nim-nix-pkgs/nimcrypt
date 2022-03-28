@@ -11,6 +11,7 @@
   inputs.src-nimcrypt-v0_0_6.ref   = "refs/tags/v0.0.6";
   inputs.src-nimcrypt-v0_0_6.owner = "napalu";
   inputs.src-nimcrypt-v0_0_6.repo  = "nimcrypt";
+  inputs.src-nimcrypt-v0_0_6.dir   = "";
   inputs.src-nimcrypt-v0_0_6.type  = "github";
   
   inputs."nimcrypto".owner = "nim-nix-pkgs";
